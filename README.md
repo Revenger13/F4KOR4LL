@@ -1,5 +1,8 @@
-### MERHABA GİTHUB PROFİLME HOŞ GELDİNİZ 👋
-### BEN MUHAMMED MUSTAFA TETİKOĞLU
+### MERHABA, GİTHUB PROFİLİME HOŞ GELDİNİZ 👋
+### BEN MUHAMMED MUSTAFA TETİKOĞLU 
+🌱 Şu anda C Dili öğrenmeye çalışıyorum.
+
+📫 Bana nasıl mı ulaşırsın: muhammedtetikoglu@stu.aydin.edu.tr
 
 <!--
 **F4KOR4LL/F4KOR4LL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
