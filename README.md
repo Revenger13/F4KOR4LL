@@ -1,4 +1,5 @@
-### Hi there 👋
+### MERHABA GİTHUB PROFİLME HOŞ GELDİNİZ 👋
+### BEN MUHAMMED MUSTAFA TETİKOĞLU
 
 <!--
 **F4KOR4LL/F4KOR4LL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
