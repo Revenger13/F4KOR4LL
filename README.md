@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 -->
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/F4KOR4LL)](https://github.com/F4KOR4LL) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/muhammedmustafatetikoglu/?hl=tr)](https://www.instagram.com/muhammedmustafatetikoglu/?hl=tr)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=F4KOR4LL)](#)
 <!-- Light Mode -->
 <a href="linkedin.com/in/muhammedmustafatetikoğlu/#gh-light-mode-only">
 <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
@@ -28,7 +29,7 @@ Here are some ideas to get you started:
 <a href="linkedin.com/in/muhammedmustafatetikoğlu/#gh-dark-mode-only">
 <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
 </a>
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=F4KOR4LL)](#)
+
 
 
 
