@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/F4KOR4LL)](https://github.com/F4KOR4LL) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/muhammedmustafatetikoglu/?hl=tr)](https://www.instagram.com/muhammedmustafatetikoglu/?hl=tr)
-[!Linkedin Badge](linkedin.com/in/muhammedmustafatetikoğlu/)
+[!LinkedIn Badge](linkedin.com/in/muhammedmustafatetikoğlu/)
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=F4KOR4LL)](#)
 
 
