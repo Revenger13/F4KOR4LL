@@ -1,35 +1,28 @@
-### MERHABA, GİTHUB PROFİLİME HOŞ GELDİNİZ 👋
-### BEN MUHAMMED MUSTAFA TETİKOĞLU 
-🌱 Şu anda C Dili öğrenmeye çalışıyorum.
+# MUHAMMED MUSTAFA TETİKOĞLU
+Merhaba, ben Mustafa. Bu GitHub hesabımda yazılım geliştirme, ağ güvenliği ve veri analitik gibi konulara odaklanan projelerimi paylaşıyorum.
 
-📫 Bana nasıl mı ulaşırsın: muhammedtetikoglu@stu.aydin.edu.tr
+# Projeler
+- Ağ Güvenliği Test Aracı: Python dili kullanarak belirli bir ağ aralığındaki cihazları tarayan ve ağ güvenliği açısından önemli bilgileri toplayan bir test aracı geliştirdim.
 
-<!--
-**F4KOR4LL/F4KOR4LL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- DDOS Saldırı Aracı: Python dili kullanarak bir IP adresine ve belirli bir port aralığına yönelik DDOS (Dağıtık Denial of Service) saldırı gerçekleştiren bir araç geliştirdim.
 
-Here are some ideas to get you started:
+- Parola Oluşturma Aracı: Python dili kullanarak bir kullanıcı tarafından verilen bir site URL'si, kullanıcı adı ve şifreleme algoritması kullanarak benzersiz bir parola üretebilen bir araç geliştirdim.
 
-- 🔭 Şu anda C Programlama üzerinde çalışıyorum.
- 🌱 Şu anda C Dili öğrenmeye çalışıyorum.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
- 📫 Bana nasıl mı ulaşırsın: muhammedtetikoglu@stu.aydin.edu.tr
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Gelecek Projeler
+- Veri Analitik Projesi: R ve Python gibi veri analitik araçları kullanarak veri madenciliği, veri ön işleme ve görselleştirme tekniklerini kullanarak çeşitli konular üzerinde analizler gerçekleştireceğim.
+
+- Ağ Güvenliği Projesi: Ağ güvenliği araçlarını ve metodlarını kullanarak ağların güvenliğini test etme ve zayıf noktalarını tespit etmeye yönelik bir proje planlıyorum.
+
+- Mobil Uygulama Geliştirme Projesi: React Native gibi kütüphaneler kullanarak çeşitli mobil uygulamalar geliştireceğim.
+Her zaman ilgi çekici ve öğrenmeye devam eden projelere odaklanmaya devam edeceğim. 
+
+- Bu GitHub hesabımda yer alan projelerimi sürekli olarak güncelleyeceğim ve yeni projeler ekleyeceğim. İlgilendiğiniz projeler hakkında daha fazla bilgi almak veya katkıda bulunmak için lütfen iletişim kurun.
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/F4KOR4LL)](https://github.com/F4KOR4LL) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/muhammedmustafatetikoglu/?hl=tr)](https://www.instagram.com/muhammedmustafatetikoglu/?hl=tr)
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=F4KOR4LL)](#)
 <!-- Dark Mode -->
-<a href="https://www.linkedin.com/in/muhammedmustafatetiko%C4%9Flu//#gh-dark-mode-only">
-<img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
+<a href="https://www.linkedin.com/in/muhammedmustafatetiko%C4%9Flu//#gh-dark-mode-only"> <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
 </a>
+<p>İletişim Adresi: muhammedtetikoglu@stu.aydin.edu.tr
 
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F4KOR4LL&layout=compact)](https://github.com/F4KOR4LL)
-
-
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=F4KOR4LL&show_icons=true&theme=radical)
