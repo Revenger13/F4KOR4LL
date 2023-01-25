@@ -17,12 +17,15 @@ Merhaba, ben Mustafa. Bu GitHub hesabımda yazılım geliştirme, ağ güvenliğ
 Her zaman ilgi çekici ve öğrenmeye devam eden projelere odaklanmaya devam edeceğim. 
 
 - Bu GitHub hesabımda yer alan projelerimi sürekli olarak güncelleyeceğim ve yeni projeler ekleyeceğim. İlgilendiğiniz projeler hakkında daha fazla bilgi almak veya katkıda bulunmak için lütfen iletişim kurun.
+### GitHub Analytics 📊
 
+  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=f4kor4ll&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical%22%20alt=%22mukireus%22"/>
+  
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/F4KOR4LL)](https://github.com/F4KOR4LL) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/muhammedmustafatetikoglu/?hl=tr)](https://www.instagram.com/muhammedmustafatetikoglu/?hl=tr)
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=F4KOR4LL)](#)
 <!-- Dark Mode -->
-<a href="https://www.linkedin.com/in/muhammedmustafatetiko%C4%9Flu//#gh-dark-mode-only"> <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
-</a>
+<p href="https://www.linkedin.com/in/muhammedmustafatetiko%C4%9Flu//#gh-dark-mode-only"> <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
+
 <p>İletişim Adresi: muhammedtetikoglu@stu.aydin.edu.tr
 
