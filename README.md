@@ -1,31 +1,24 @@
-# MUHAMMED MUSTAFA TETİKOĞLU
-Merhaba, ben Mustafa. Bu GitHub hesabımda yazılım geliştirme, ağ güvenliği ve veri analitik gibi konulara odaklanan projelerimi paylaşıyorum.
+# 💫 About Me:
+Ben Muhammed Mustafa Tetikoğlu, bir bilgisayar programcısıyım ve web geliştirme ile ilgileniyorum. HTML, CSS ve JavaScript gibi web dilleri konusunda deneyimliyim ve bu dillerle birçok projede çalıştım. İnternet siteleri ve web uygulamaları geliştirme konusunda uzmanım ve bu alanda sürekli kendimi geliştirmeye çalışıyorum. Şu anda, yeni teknolojiler ve web tasarım trendleri hakkında araştırmalar yapıyorum ve öğrendiklerimi projelerime yansıtmaya çalışıyorum. Yaratıcı ve yenilikçi projeler üretmeye odaklanarak, web geliştirme konusunda kariyerimi ilerletmeye kararlıyım.
 
-# Projeler
-- Ağ Güvenliği Test Aracı: Python dili kullanarak belirli bir ağ aralığındaki cihazları tarayan ve ağ güvenliği açısından önemli bilgileri toplayan bir test aracı geliştirdim.
 
-- DDOS Saldırı Aracı: Python dili kullanarak bir IP adresine ve belirli bir port aralığına yönelik DDOS (Dağıtık Denial of Service) saldırı gerçekleştiren bir araç geliştirdim.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/F4KO#5371) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mustafa_tetikoglu/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammedmustafatetiko%C4%9Flu/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Tetikoglu13) 
 
-- Parola Oluşturma Aracı: Python dili kullanarak bir kullanıcı tarafından verilen bir site URL'si, kullanıcı adı ve şifreleme algoritması kullanarak benzersiz bir parola üretebilen bir araç geliştirdim.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=F4KOR4LL&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=F4KOR4LL&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=F4KOR4LL&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# Gelecek Projeler
-- Veri Analitik Projesi: R ve Python gibi veri analitik araçları kullanarak veri madenciliği, veri ön işleme ve görselleştirme tekniklerini kullanarak çeşitli konular üzerinde analizler gerçekleştireceğim.
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=https://twitter.com/Tetikoglu13)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-- Ağ Güvenliği Projesi: Ağ güvenliği araçlarını ve metodlarını kullanarak ağların güvenliğini test etme ve zayıf noktalarını tespit etmeye yönelik bir proje planlıyorum.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=F4KOR4LL&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- Mobil Uygulama Geliştirme Projesi: React Native gibi kütüphaneler kullanarak çeşitli mobil uygulamalar geliştireceğim.
-Her zaman ilgi çekici ve öğrenmeye devam eden projelere odaklanmaya devam edeceğim. 
+---
+[![](https://visitcount.itsvg.in/api?id=F4KOR4LL&icon=0&color=12)](https://visitcount.itsvg.in)
 
-- Bu GitHub hesabımda yer alan projelerimi sürekli olarak güncelleyeceğim ve yeni projeler ekleyeceğim. İlgilendiğiniz projeler hakkında daha fazla bilgi almak veya katkıda bulunmak için lütfen iletişim kurun.
-### GitHub Analytics 📊
-
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=f4kor4ll&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical%22%20alt=%22mukireus%22"/>
-  
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/F4KOR4LL)](https://github.com/F4KOR4LL) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/muhammedmustafatetikoglu/?hl=tr)](https://www.instagram.com/muhammedmustafatetikoglu/?hl=tr)
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=F4KOR4LL)](#)
-<!-- Dark Mode -->
-<p href="https://www.linkedin.com/in/muhammedmustafatetiko%C4%9Flu//#gh-dark-mode-only"> <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
-
-<p>İletişim Adresi: muhammedtetikoglu@stu.aydin.edu.tr
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
