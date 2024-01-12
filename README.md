@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ben Muhammed Mustafa Tetikoğlu, bir bilgisayar programcısıyım ve web geliştirme ile ilgileniyorum. HTML, CSS ve JavaScript gibi web dilleri konusunda deneyimliyim ve bu dillerle birçok projede çalıştım. İnternet siteleri ve web uygulamaları geliştirme konusunda uzmanım ve bu alanda sürekli kendimi geliştirmeye çalışıyorum. Şu anda, yeni teknolojiler ve web tasarım trendleri hakkında araştırmalar yapıyorum ve öğrendiklerimi projelerime yansıtmaya çalışıyorum. Yaratıcı ve yenilikçi projeler üretmeye odaklanarak, web geliştirme konusunda kariyerimi ilerletmeye kararlıyım.
+Ben , bir bilgisayar programcısıyım ve web geliştirme ile ilgileniyorum. HTML, CSS ve JavaScript gibi web dilleri konusunda deneyimliyim ve bu dillerle birçok projede çalıştım. İnternet siteleri ve web uygulamaları geliştirme konusunda uzmanım ve bu alanda sürekli kendimi geliştirmeye çalışıyorum. Şu anda, yeni teknolojiler ve web tasarım trendleri hakkında araştırmalar yapıyorum ve öğrendiklerimi projelerime yansıtmaya çalışıyorum. Yaratıcı ve yenilikçi projeler üretmeye odaklanarak, web geliştirme konusunda kariyerimi ilerletmeye kararlıyım.
 
 
 # 💻 Tech Stack:
